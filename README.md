@@ -1,2 +1,2 @@
 ANN
-Bank Analyis ML Project using ANN
+Bank Analyis ML Project using ANN.
